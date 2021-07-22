@@ -5,9 +5,10 @@ TDD practice with Jest from The Odin Project [curriculum](https://www.theodinpro
 ### Functions tested
 - ```capitalize(string)```
 - ```reverseString(string)```
+- ```caesar(string)```
 - ```Calculator```
-⋅⋅* ```add(a, b)```
-⋅⋅* ```substract(a, b)```
-⋅⋅* ```multiply(a, b)```
-⋅⋅* ```divide(a, b)```
+⋅⋅⋅ ```add(a, b)```
+⋅⋅⋅ ```substract(a, b)```
+⋅⋅⋅ ```multiply(a, b)```
+⋅⋅⋅ ```divide(a, b)```
 - ```analyze(array)```
