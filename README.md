@@ -8,12 +8,12 @@ TDD practice with Jest from The Odin Project [curriculum](https://www.theodinpro
 - ```caesar(string)```
 - ```Calculator```
 
-⋅⋅⋅ ```add(a, b)```
+```add(a, b)```
 
-⋅⋅⋅ ```substract(a, b)```
+```substract(a, b)```
 
-⋅⋅⋅ ```multiply(a, b)```
+```multiply(a, b)```
 
-⋅⋅⋅ ```divide(a, b)```
+```divide(a, b)```
 
 - ```analyze(array)```
