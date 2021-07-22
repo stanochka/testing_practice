@@ -9,8 +9,11 @@ TDD practice with Jest from The Odin Project [curriculum](https://www.theodinpro
 - ```Calculator```
 
 ⋅⋅⋅ ```add(a, b)```
+
 ⋅⋅⋅ ```substract(a, b)```
+
 ⋅⋅⋅ ```multiply(a, b)```
+
 ⋅⋅⋅ ```divide(a, b)```
 
 - ```analyze(array)```
